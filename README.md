@@ -1,9 +1,6 @@
 # Serverless Web Application
 with AWS Lambda, Amazon API Gateway, AWS Amplify, Amazon DynamoDB, and Amazon Cognito
 
-# The app is deployed on AWS cloud and is LIVE here
- <a href="https://master.d2kpoyg99s1w1a.amplifyapp.com/">Web App is here</a>
-
 It supports:
 
 <ul>
